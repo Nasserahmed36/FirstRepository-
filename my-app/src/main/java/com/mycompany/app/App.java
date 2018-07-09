@@ -20,5 +20,6 @@ public class App
     frame.add(label);
     frame.pack();
     frame.setVisible(true);
+	int b = 55;
     }
 }
